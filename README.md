@@ -9,19 +9,19 @@ This uses a simple binary tree to store the expression.<br>
 
 <h3> Here is a sample output </h3>
 `
-Enter a Expression :5+6+8-2*4+6*5
-║         ╔═══(5)
-║    ╔═══[*]
-║    ║    ╚═══(6)
-╚═══[+]
-     ║         ╔═══(4)
-     ║    ╔═══[*]
-     ║    ║    ╚═══(2)
-     ╚═══[-]
-          ║    ╔═══(8)
-          ╚═══[+]
-               ║    ╔═══(6)
-               ╚═══[+]
-                    ╚═══(5)
-Solved result : 41
+Enter a Expression :5+6+8-2*4+6*5 <br>
+║         ╔═══(5) <br>
+║    ╔═══[*] <br>
+║    ║    ╚═══(6) <br>
+╚═══[+] <br>
+     ║         ╔═══(4) <br>
+     ║    ╔═══[*] <br>
+     ║    ║    ╚═══(2) <br>
+     ╚═══[-] <br>
+          ║    ╔═══(8) <br>
+          ╚═══[+] <br>
+               ║    ╔═══(6) <br>
+               ╚═══[+] <br>
+                    ╚═══(5) <br>
+Solved result : 41 <br>
 `
