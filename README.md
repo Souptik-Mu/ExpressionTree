@@ -8,20 +8,5 @@ This uses a simple binary tree to store the expression.<br>
 <p> I did completed this project almost a year ago, but it has few here there twiks to make. I used g++ to make this.<br> And it also have a nice graphical tree display.</p>
 
 <h3> Here is a sample output </h3>
-`
-Enter a Expression :5+6+8-2*4+6*5 <br>
-║         ╔═══(5) <br>
-║    ╔═══[*] <br>
-║    ║    ╚═══(6) <br>
-╚═══[+] <br>
-     ║         ╔═══(4) <br>
-     ║    ╔═══[*] <br>
-     ║    ║    ╚═══(2) <br>
-     ╚═══[-] <br>
-          ║    ╔═══(8) <br>
-          ╚═══[+] <br>
-               ║    ╔═══(6) <br>
-               ╚═══[+] <br>
-                    ╚═══(5) <br>
-Solved result : 41 <br>
-`
+
+![image](https://github.com/user-attachments/assets/c2bf9226-65c0-4a48-905d-bf3f9b8d5271)
