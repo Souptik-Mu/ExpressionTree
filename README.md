@@ -1,5 +1,5 @@
 # ExpressionTree
-A multi-digit expression solver using c++ and binary tree.
+A multi-digit expression solver using c++ and binary tree(Supports brackets).
 
 This uses a simple binary tree to store the expression.<br>
 <p> A expression String can be passed in <code>Tree::LoadExpression()</code> that will parse the string into a list of tokens. This list of tokens are further used to build the expression tree by locating operator tokens and by checking their precedence.</p>
